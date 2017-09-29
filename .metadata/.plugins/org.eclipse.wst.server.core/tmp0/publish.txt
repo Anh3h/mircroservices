@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Sep 28 18:29:14 WAT 2017
+org.eclipse.jst.jee.server\:/binary\:/home/courage/.m2/repository/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE.jar=/home/courage/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/base-instance/wtpwebapps/helloworld/WEB-INF/lib/spring-web-4.2.6.RELEASE.jar
+org.eclipse.jst.jee.server\:helloworld=/home/courage/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/base-instance/wtpwebapps/helloworld

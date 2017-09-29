@@ -1,2 +1,2 @@
 # mircroservices
-Path to self training o microsevices
+Path to self training on microsevices

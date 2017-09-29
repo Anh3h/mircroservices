@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/courage/Documents/workspace-sts-3.9.0.RELEASE/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1289424361.index
+4141143057.index
+1379015419.index
+3255148294.index
+1686274598.index
+2460006161.index
