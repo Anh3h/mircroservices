@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="webclient-microservice-server"/>
+<aop-project name="accounts-microservice-server"/>
+<aop-project name="discovery-microservice-server"/>
 <aop-project name="Order"/>
 <aop-project name="helloworld"/>
 <aop-project name="product"/>
